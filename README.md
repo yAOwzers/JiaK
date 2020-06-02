@@ -1,4 +1,6 @@
-# JiaK
+<img src="https://imgur.com/zqieOmC.png" width=200>
+
+JiaK
 
  ## Team Members
 
