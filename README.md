@@ -4,10 +4,9 @@
 
  ## Team Members
 
- -Charles
  -Chng yong sheng
   -zplish
-
+.[@charlesleezhaoyi](https://github.com/charlesleezhaoyi) : Charles Lee Zhao Yi
  [@yAOwzers](https://github.com/yAOwzers) : Neo Yao Jie, Joel
 
  ## The Problem
