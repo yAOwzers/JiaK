@@ -2,9 +2,9 @@
 
  ## Team Members
 
- <charles>
- <Chng yong sheng>
-  <zplish>
+ -Charles
+ -Chng yong sheng
+  -zplish
 
  [@yAOwzers](https://github.com/yAOwzers) : Neo Yao Jie, Joel
 
