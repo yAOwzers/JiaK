@@ -2,7 +2,9 @@
 
  ## Team Members
 
- [@neilbaner](https://github.com/neilbaner) : Neil Banerjee
+ <charles>
+ <Chng yong sheng>
+  <zplish>
 
  [@yAOwzers](https://github.com/yAOwzers) : Neo Yao Jie, Joel
 
